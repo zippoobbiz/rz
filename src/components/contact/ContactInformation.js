@@ -6,16 +6,16 @@ const ContactInformation = () =>
       <li>
         <h3>Address</h3>
         <span>
-          12345 Somewhere Road #654
+          727 Collins St
           <br />
-          Nashville, TN 00000-0000
+          Docklands, VIC 3008 
           <br />
-          USA
+          Australia
         </span>
       </li>
       <li>
         <h3>Email</h3>
-        <a href="/#">user@untitled.tld</a>
+        <a href="/#">junzhujiang@gmail.com</a>
       </li>
       <li>
         <h3>Phone</h3>

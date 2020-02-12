@@ -5,34 +5,24 @@ import Capability from './Capability';
 const CapabilityList = () => {
   const CAPABILITIES = [
     {
-      heading: 'Lorem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
+      heading: 'Developing Secure Software',
+      description: '',
       iconClass: 'fa-code',
     },
     {
-      heading: 'Morem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
+      heading: 'React: Testing and Debugging',
+      description: '',
       iconClass: 'fa-lock',
     },
     {
-      heading: 'Dorem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
+      heading: 'Scrum Master Certified',
+      description: 'SCRUMstudy - Accreditation Body for Scrum and Agile;Download Free Scrum Body of Knowledge(381 pages). Issued date and, if applicable, expiration date of the certification or license. Issued Nov 2018. Credential ID 743580',
       iconClass: 'fa-cog',
     },
     {
-      heading: 'Forem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
+      heading: 'Scrum Fundamentals Certified',
+      description: 'SCRUMstudy - Accreditation Body for Scrum and Agile;Download Free Scrum Body of Knowledge(381 pages) Issued date and, if applicable, expiration date of the certification or license. Credential ID 741584',
       iconClass: 'fa-desktop',
-    },
-    {
-      heading: 'Corem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
-      iconClass: 'fa-chain',
-    },
-    {
-      heading: 'Norem ipsum amet',
-      description: 'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
-      iconClass: 'fa-diamond',
     },
   ]
 
